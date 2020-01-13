@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name smartcare)(type KiCad)(uri ${KIPRJMOD}/library/smartcare.pretty)(options "")(descr ""))
+)
