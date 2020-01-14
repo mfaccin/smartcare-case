@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew "(5.1.2)-2")
+(kicad_pcb (version 20171130) (host pcbnew 5.1.4+dfsg1-1)
 
   (general
     (thickness 1.6)
@@ -2381,7 +2381,7 @@
       (net 20 /microcontroller/SWDIO))
     (pad 1 thru_hole rect (at 0 0 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 21 /microcontroller/SWDCLK))
-    (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl
+    (model //~${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2422,7 +2422,7 @@
       (net 23 /microcontroller/TX))
     (pad 2 thru_hole oval (at 0 2.54 315) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 24 /microcontroller/RX))
-    (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl
+    (model //~${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2463,7 +2463,7 @@
       (net 1 GND))
     (pad 2 thru_hole oval (at 0 2.54 45) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 39 /power_supply/VBAT))
-    (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl
+    (model //~${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
